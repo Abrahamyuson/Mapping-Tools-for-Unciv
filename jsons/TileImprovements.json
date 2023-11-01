@@ -227,6 +227,7 @@
 		"name": "Citadel",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"food":  5,
+		"production": 5,
 		"uniques": [
 			"Great Improvement",
 			"Gives a defensive bonus of [100]%",
