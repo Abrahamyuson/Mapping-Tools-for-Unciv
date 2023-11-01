@@ -3,15 +3,15 @@
 	{
 		"name": "Ocean",
 		"type": "Water",
-		"food": 5,
-		"gold": 5,
+		"food": 2,
+		"gold": 2,
 		"movementCost": 1,
 		"RGB": [43, 87, 151]
 	},
 	{
 		"name": "Coast",
 		"type": "Water",
-		"food": 4,
+		"food": 2,
 		"movementCost": 1,
 		"RGB": [70, 138, 216], //Darker87, 139, 199  Lighter59, 137, 227
 		"uniques": ["[+2] to Fertility for Map Generation",
